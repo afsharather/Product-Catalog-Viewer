@@ -53,7 +53,3 @@ To start the development server run:
 
 ```bash
 npm start
-
-
-
-
