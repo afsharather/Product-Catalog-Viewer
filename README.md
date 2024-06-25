@@ -50,14 +50,13 @@ Product Catalog Viewer is a React application that allows users to browse a list
 ## Running the Application
 
 To start the development server run:
-
-``bash
 npm install
 
+The application will be available at http://localhost:3000.
 ## Deployment
 
 The application has been successfully deployed using Netlify. You can access the deployed version at:
 
-[here](https://afsharather-product-catalog.netlify.app/)
+[https://afsharather-product-catalog.netlify.app/](https://afsharather-product-catalog.netlify.app/)
 
 
