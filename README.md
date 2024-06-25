@@ -53,3 +53,9 @@ To start the development server run:
 
 ```bash
 npm start
+
+## Deployment
+
+The application has been successfully deployed using Netlify. You can access the deployed version at:
+
+https://afsharather-product-catalog.netlify.app/
