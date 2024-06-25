@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/afsharather/Product-Catalog-Viewer/static/css/main.1330f0d5.css",
-    "main.js": "/afsharather/Product-Catalog-Viewer/static/js/main.e502b499.js",
-    "index.html": "/afsharather/Product-Catalog-Viewer/index.html",
-    "main.1330f0d5.css.map": "/afsharather/Product-Catalog-Viewer/static/css/main.1330f0d5.css.map",
-    "main.e502b499.js.map": "/afsharather/Product-Catalog-Viewer/static/js/main.e502b499.js.map"
+    "main.css": "/Product-Catalog-Viewer/static/css/main.1330f0d5.css",
+    "main.js": "/Product-Catalog-Viewer/static/js/main.e502b499.js",
+    "index.html": "/Product-Catalog-Viewer/index.html",
+    "main.1330f0d5.css.map": "/Product-Catalog-Viewer/static/css/main.1330f0d5.css.map",
+    "main.e502b499.js.map": "/Product-Catalog-Viewer/static/js/main.e502b499.js.map"
   },
   "entrypoints": [
     "static/css/main.1330f0d5.css",
