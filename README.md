@@ -13,8 +13,12 @@ Product Catalog Viewer is a React application that allows users to browse a list
 ![Product List](ProductList.png)
 *Product List Page*
 
+
+
 ![Product Details](ProductDetail.png)
 *Product Details Page*
+
+
 
 ![Product Search](ProductSearch.png)
 *Product Search Page*
