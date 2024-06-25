@@ -58,4 +58,4 @@ npm start
 
 The application has been successfully deployed using Netlify. You can access the deployed version at:
 
-https://afsharather-product-catalog.netlify.app/
+[here](https://afsharather-product-catalog.netlify.app/)
