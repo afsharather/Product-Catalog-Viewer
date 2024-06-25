@@ -40,11 +40,14 @@ Product Catalog Viewer is a React application that allows users to browse a list
 
 3. Install Dependencies:
 
+   ```bash
     npm install
 
 ## Running the Application
 
 To start the development server run:
+
+```bash
 npm start
 
 The application will be available at http://localhost:3000.
